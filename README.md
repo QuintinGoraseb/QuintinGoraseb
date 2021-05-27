@@ -36,6 +36,10 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="SQL" width="66px" src="images/sql.png" />
+<br />
+<br />
+<br />
+<br />
 <img align="left" alt="Django" width="66px" src="images/django.png" />
 <img align="left" alt="Bootstrap" width="46px" src="images/bootstrap.png" />
 <img align="left" alt="MySQL" width="56px" src="images/my.png" />
